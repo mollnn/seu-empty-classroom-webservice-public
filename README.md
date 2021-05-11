@@ -12,4 +12,6 @@ Note:
 2. 导入数据库。到阿里云大网吧开台最低配的机器，装个 Ubuntu 并装上 Node.js, MySQL, screen 等，将 CSV 导入到 MySQL 中。
 3. 用 Node.js 写一个查 MySQL 返回 JSON 并搞成 HTML 表格的暴躁小家伙，再搞个憨憨的 HTML 表单当查询页。
 
-![image](https://user-images.githubusercontent.com/57652546/116772836-2b12f600-aa84-11eb-908b-d9a705e99b6b.png)
+![image](https://user-images.githubusercontent.com/57652546/117805823-0260dc80-b28c-11eb-8ef6-410bf2de6cad.png)
+
+![image](https://user-images.githubusercontent.com/57652546/117805785-f9700b00-b28b-11eb-8b4a-2bd3b2fdeabc.png)
