@@ -1,5 +1,7 @@
 因为好几次大中午在教学楼找空教室被晒中暑所以兴起搞了个小工具。
 
+UPD on 2021.10.23: 数据已更新 Fall 2021
+
 体验：[fec.mollnn.com](http://fec.mollnn.com) （不确定哪天会关）
 
 网页版：[mollnn/seu-empty-classroom-webservice: seu-empty-classroom-webservice-public (github.com)](https://github.com/mollnn/seu-empty-classroom-webservice-public)
